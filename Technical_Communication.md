@@ -1,6 +1,7 @@
 # Technical_Paper
 
 ### Investigating Caching Approaches for Performance and Scaling Issues
+   - Caching is a system design concept that involves storing frequently accessed data in a location that is easily and quickly accessible. The purpose of caching is to improve the performance and efficiency of a system by reducing the amount of time it takes to access frequently accessed data.
 
 ### Types of Caching Approaches
 
@@ -33,4 +34,4 @@ Choosing the right caching approach depends on the specific needs of your projec
 ### References
 
 * [GeeksForGeeks](https://www.geeksforgeeks.org/caching-system-design-concept-for-beginners/)
-* 
+* [LinkedIn](https://www.linkedin.com/advice/1/how-do-you-debug-caching-performance-optimization)
