@@ -13,10 +13,10 @@
 
 ### Question 4
  **what are the steps to take when approaching a new topic?**:
-1. **Deconstruct the skill**: Break down the skill into smaller, manageable parts.
-2. **Learn enough to self-correct**: Get enough information so that you can recognize and correct mistakes during practice.
-3. **Remove practice barriers**: Identify and eliminate anything that might prevent you from practicing consistently.
-4. **Practice for at least 20 hours**: Commit to putting in a minimum of 20 hours of focused practice to reach a basic level of proficiency.
+ - **Deconstruct the skill**: Break down the skill into smaller, manageable parts.
+ - **Learn enough to self-correct**: Get enough information so that you can recognize and correct mistakes during practice.
+ - **Remove practice barriers**: Identify and eliminate anything that might prevent you from practicing consistently.
+ - **Practice for at least 20 hours**: Commit to putting in a minimum of 20 hours of focused practice to reach a basic level of proficiency.
 
 ### Question 5
 
