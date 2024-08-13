@@ -14,8 +14,6 @@
 
 **What is the Internal Locus of Control? What is the key point in the video?**
 - The video defines Internal Locus of Control as the belief that one has control over their own life and outcomes, rather than external factors.
-
-**Key Point:**
 - The video stresses that maintaining an Internal Locus of Control is crucial for staying motivated and achieving success.
 
 ## Question 4
