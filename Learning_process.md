@@ -1,31 +1,28 @@
 ### Question 1
  **What is the Feynman Technique?** 
-  - The Feynman Technique involves explaining a concept in simple terms to identify gaps in understanding.
+  - Based on this feynman Technique is try to explain that identify the gaps.
 
 ### Question 2
  **What was the most interesting story or idea in the video?**
-- A common interesting point from Barbara Oakley's talks is her story about how she struggled with math in her youth and later became an engineer and educator. She often emphasizes that anyone can learn difficult subjects with the right techniques and mindset.
+- In this video she will explain how she strugling in Math in learning time and after some time how it is became an engineer and also teach some student.
+- she try to explain how to learn any new subject in easy way.
 
 ### Question 3
  **What are active and diffused modes of thinking?**
-  - **Active Mode**: Focused, deliberate thinking often used when tackling complex problems.
-  - **Diffused Mode**: Relaxed, less concentrated thinking that allows your mind to form connections between ideas.
+  - **Active Mode**: Active mode is that mode when your mind is in woking condition to solving any task.
+  - **Diffused Mode**:Diffused mode is that mode when my mind goes to rest codition like sleep etc.
 
 ### Question 4
  **what are the steps to take when approaching a new topic?**:
- - **Deconstruct the skill**: Break down the skill into smaller, manageable parts.
- - **Learn enough to self-correct**: Get enough information so that you can recognize and correct mistakes during practice.
- - **Remove practice barriers**: Identify and eliminate anything that might prevent you from practicing consistently.
- - **Practice for at least 20 hours**: Commit to putting in a minimum of 20 hours of focused practice to reach a basic level of proficiency.
-
+ - When we approaching new topic simple break it is in smaller topic and work on smaller topic.
+ - Learn more about that topic which will reduce to get error and emprove your motivation.
+ - When you working any task at that remove all distaction.
+ - For learnig any new topic plan to 20 hours learning plan and focus on that topic.
+   
 ### Question 5
-
 **What are some of the actions you can take going forward to improve your learning process?**
 
-- **Apply the Feynman Technique**: Regularly explain concepts in simple terms to identify and fill knowledge gaps.
-- **Use Active and Diffused Modes**: Alternate between focused study sessions (active mode) and relaxed thinking (diffused mode) to enhance problem-solving.
-- **Set Clear Goals**: Define specific, achievable learning goals with deadlines to stay motivated and track progress.
-- **Practice Consistently**: Dedicate regular time to practice and reinforce new skills or concepts.
-- **Reflect and Review**: Periodically review what you've learned and reflect on areas for improvement to solidify understanding.
-- **Seek Feedback**: Get feedback from peers or mentors to gain different perspectives and improve your approach.
-- **Limit Distractions**: Create a focused learning environment by minimizing distractions to increase concentration and productivity.
+- Regularly explain concepts in simple terms to identify and fill knowledge gaps.
+- Alternate between focused study sessions (active mode) and relaxed thinking (diffused mode) to enhance problem-solving.
+- Dedicate regular time to practice and reinforce new skills or concepts.
+- Create a focused learning environment by minimizing distractions to increase concentration and productivity.
