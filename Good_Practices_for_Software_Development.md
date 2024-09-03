@@ -9,4 +9,4 @@
 
 - Start giving regular updates on task progress.
 - Use group chats more to keep everyone informed.
-- When anyone ask you help then give details explanantion what you know about it.
+- When anyone ask you help then give details explanation what you know about it.
