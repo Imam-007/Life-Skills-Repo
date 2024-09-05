@@ -52,7 +52,7 @@ If you want to stop a bad habit, the book says to make it harder to do. You can 
 ### Question 9:
 **Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make the cue invisible, or the process unattractive, hard, or the response unsatisfying?**
 
-*Habit*: Excessive screen time (e.g., scrolling on social media)
+**Habit to Do Less: Less Screen Time**
 
 **Steps**:
 -  Turn off notifications and leave my phone in another room.
